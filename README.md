@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm **Anaranyo Sarkar**  
+# Hi, I'm **Anaranyo Sarkar.**  
 🎓 B.Tech Electrical Engineering @ MNNIT Allahabad  
 📱 App Developer | 🧠 Puzzle Solver | ⚔️ Competitive Coder | 🔧 Full-Stack Explorer  
 
